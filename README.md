@@ -195,8 +195,8 @@ jv@dev:~$ ▉
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoVitorArantesGomes&show_icons=true&count_private=true&hide_border=true&title_color=00FFFF&icon_color=FF2E63&text_color=C9D1D9&bg_color=0D1117" alt="stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitorArantesGomes&layout=compact&hide_border=true&title_color=00FFFF&text_color=C9D1D9&bg_color=0D1117&langs_count=8" alt="top langs"/>
+<img height="180em" src="https://github-readme-stats-gilt-seven-19.vercel.app/api?username=JoaoVitorArantesGomes&show_icons=true&count_private=true&hide_border=true&title_color=00FFFF&icon_color=FF2E63&text_color=C9D1D9&bg_color=0D1117" alt="stats"/>
+<img height="180em" src="https://github-readme-stats-gilt-seven-19.vercel.app/api/top-langs/?username=JoaoVitorArantesGomes&layout=compact&hide_border=true&title_color=00FFFF&text_color=C9D1D9&bg_color=0D1117&langs_count=8" alt="top langs"/>
 
 <br/><br/>
 
