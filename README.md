@@ -218,7 +218,7 @@ jv@dev:~$ ▉
 
 <div align="center">
 
-<img width="95%" src="https://github-profile-trophy-pink-phi.vercel.app/?username=JoaoVitorArantesGomes&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies"/>
+<img width="95%" src="https://github-profile-trophy.vercel.app/?username=JoaoVitorArantesGomes&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies"/>
 
 </div>
 
