@@ -4,20 +4,20 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FFFF,100:FF2E63&height=220&section=header&text=JV%20//%20SYSTEM%20ONLINE&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=booting%20developer.exe%20...%20%5BOK%5D&descSize=16&descAlignY=60&animation=fadeIn" alt="banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1128,50:7C3AED,100:3B82F6&height=220&section=header&text=JV%20//%20SYSTEM%20ONLINE&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=booting%20developer.exe%20...%20%5BOK%5D&descSize=16&descAlignY=60&animation=fadeIn" alt="banner"/>
 
 <!-- ─────────────  TYPING ANIMATION  ───────────── -->
 
 <a href="https://github.com/JoaoVitorArantesGomes">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=00FFFF&center=true&vCenter=true&width=750&lines=%3E+Ol%C3%A1%2C+sou+Jo%C3%A3o+V%C3%ADtor+%7C+JV;%3E+Desenvolvedor+Full-Stack;%3E+Python+%7C+Flask+%7C+JavaScript;%3E+Construindo+solu%C3%A7%C3%B5es+com+IA;%3E+Em+busca+do+primeiro+est%C3%A1gio+em+tech" alt="typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=A855F7&center=true&vCenter=true&width=750&lines=%3E+Ol%C3%A1%2C+sou+Jo%C3%A3o+V%C3%ADtor+%7C+JV;%3E+Desenvolvedor+Full-Stack;%3E+Python+%7C+Flask+%7C+JavaScript;%3E+Construindo+solu%C3%A7%C3%B5es+com+IA;%3E+Em+busca+do+primeiro+est%C3%A1gio+em+tech" alt="typing animation"/>
 </a>
 
 <!-- ─────────────  STATUS BADGES  ───────────── -->
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=JoaoVitorArantesGomes&label=PROFILE+VIEWS&color=00FFFF&style=for-the-badge" alt="views"/>
-  <img src="https://img.shields.io/badge/STATUS-DISPON%C3%8DVEL%20PARA%20EST%C3%81GIO-FF2E63?style=for-the-badge&labelColor=0D1117" alt="status"/>
-  <img src="https://img.shields.io/badge/LOCATION-GOI%C3%82NIA%2C%20BR-00FFFF?style=for-the-badge&labelColor=0D1117" alt="location"/>
+  <img src="https://komarev.com/ghpvc/?username=JoaoVitorArantesGomes&label=PROFILE+VIEWS&color=A855F7&style=for-the-badge" alt="views"/>
+  <img src="https://img.shields.io/badge/STATUS-DISPON%C3%8DVEL%20PARA%20EST%C3%81GIO-3B82F6?style=for-the-badge&labelColor=0D1128" alt="status"/>
+  <img src="https://img.shields.io/badge/LOCATION-GOI%C3%82NIA%2C%20BR-A855F7?style=for-the-badge&labelColor=0D1128" alt="location"/>
 </p>
 
 </div>
@@ -55,7 +55,7 @@ mindset:      Autodidata • curioso • orientado a resultado
 ### Linguagens & Frameworks
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=00FFFF"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=A855F7"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -113,7 +113,7 @@ mindset:      Autodidata • curioso • orientado a resultado
 `Python` `Flask` `Anthropic API`
 
 <a href="https://github.com/JoaoVitorArantesGomes">
-  <img src="https://img.shields.io/badge/VER%20PROJETO-00FFFF?style=for-the-badge&logoColor=black&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/VER%20PROJETO-A855F7?style=for-the-badge&logoColor=white&labelColor=0D1128"/>
 </a>
 
 </td>
@@ -126,7 +126,7 @@ mindset:      Autodidata • curioso • orientado a resultado
 `Python` `IA` `Flask`
 
 <a href="https://github.com/JoaoVitorArantesGomes">
-  <img src="https://img.shields.io/badge/VER%20PROJETO-FF2E63?style=for-the-badge&logoColor=white&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/VER%20PROJETO-3B82F6?style=for-the-badge&logoColor=white&labelColor=0D1128"/>
 </a>
 
 </td>
@@ -142,7 +142,7 @@ mindset:      Autodidata • curioso • orientado a resultado
 `Flask` `MariaDB` `Python`
 
 <a href="https://github.com/JoaoVitorArantesGomes">
-  <img src="https://img.shields.io/badge/VER%20PROJETO-00FFFF?style=for-the-badge&logoColor=black&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/VER%20PROJETO-A855F7?style=for-the-badge&logoColor=white&labelColor=0D1128"/>
 </a>
 
 </td>
@@ -155,7 +155,7 @@ mindset:      Autodidata • curioso • orientado a resultado
 `HTML` `CSS` `JavaScript`
 
 <a href="https://joaovitorarantesgomes.github.io">
-  <img src="https://img.shields.io/badge/ACESSAR-FF2E63?style=for-the-badge&logoColor=white&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/ACESSAR-3B82F6?style=for-the-badge&logoColor=white&labelColor=0D1128"/>
 </a>
 
 </td>
@@ -195,16 +195,16 @@ jv@dev:~$ ▉
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-gilt-seven-19.vercel.app/api?username=JoaoVitorArantesGomes&show_icons=true&count_private=true&hide_border=true&title_color=00FFFF&icon_color=FF2E63&text_color=C9D1D9&bg_color=0D1117" alt="stats"/>
-<img height="180em" src="https://github-readme-stats-gilt-seven-19.vercel.app/api/top-langs/?username=JoaoVitorArantesGomes&layout=compact&hide_border=true&title_color=00FFFF&text_color=C9D1D9&bg_color=0D1117&langs_count=8" alt="top langs"/>
+<img height="180em" src="https://github-readme-stats-gilt-seven-19.vercel.app/api?username=JoaoVitorArantesGomes&show_icons=true&count_private=true&hide_border=true&title_color=A855F7&icon_color=60A5FA&text_color=CDD6F4&bg_color=0D1128" alt="stats"/>
+<img height="180em" src="https://github-readme-stats-gilt-seven-19.vercel.app/api/top-langs/?username=JoaoVitorArantesGomes&layout=compact&hide_border=true&title_color=A855F7&text_color=CDD6F4&bg_color=0D1128&langs_count=8" alt="top langs"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=JoaoVitorArantesGomes&hide_border=true&background=0D1117&stroke=00FFFF&ring=FF2E63&fire=FF2E63&currStreakLabel=00FFFF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="streak"/>
+<img src="https://streak-stats.demolab.com?user=JoaoVitorArantesGomes&hide_border=true&background=0D1128&stroke=A855F7&ring=3B82F6&fire=3B82F6&currStreakLabel=A855F7&sideLabels=CDD6F4&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="streak"/>
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=JoaoVitorArantesGomes&bg_color=0D1117&color=00FFFF&line=FF2E63&point=FFFFFF&area=true&hide_border=true" alt="activity graph"/>
+<img width="95%" src="https://github-readme-activity-graph-delta-one.vercel.app/graph?username=JoaoVitorArantesGomes&bg_color=0D1128&color=A855F7&line=3B82F6&point=FFFFFF&area=true&hide_border=true" alt="activity graph"/>
 
 </div>
 
@@ -218,7 +218,7 @@ jv@dev:~$ ▉
 
 <div align="center">
 
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=JoaoVitorArantesGomes&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies"/>
+<img width="95%" src="https://github-profile-trophy-pink-phi.vercel.app/?username=JoaoVitorArantesGomes&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies"/>
 
 </div>
 
@@ -257,7 +257,7 @@ jv@dev:~$ ▉
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://joaovitorarantesgomes.github.io" target="_blank">
-  <img src="https://img.shields.io/badge/Portf%C3%B3lio-00FFFF?style=for-the-badge&logo=googlechrome&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Portf%C3%B3lio-A855F7?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 </div>
@@ -270,7 +270,7 @@ jv@dev:~$ ▉
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2E63,50:00FFFF,100:0D1117&height=140&section=footer&text=Obrigado%20pela%20visita!&fontColor=FFFFFF&fontSize=22&fontAlignY=70&reversal=true&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,50:7C3AED,100:0D1128&height=140&section=footer&text=Obrigado%20pela%20visita!&fontColor=FFFFFF&fontSize=22&fontAlignY=70&reversal=true&animation=fadeIn"/>
 
 <sub>⚡ <code>system.shutdown()</code> — "Código limpo hoje, oportunidade amanhã." — JV</sub>
 
